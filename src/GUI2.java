@@ -207,10 +207,10 @@ public class GUI2 implements ActionListener {
 			x3.setText("X");
 		}
 		
-//		if (user.equals("sbilli2") && password.equals("5K8t3rb0y@")) {
+//		if (user.equals("sbilli2") && password.equals("***")) {
 //			success.setText("Login Successful!");
 //		} else {
-//			success.setText("Login Wrong you pussy ahh hoe nih!");
+//			success.setText("Login Wrong!");
 //		}
 	}
 
